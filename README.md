@@ -1,6 +1,6 @@
 # dailysub - 구독경제를 새롭게 경험하다!
 
-![dailysub logo]([logo_url](https://github.com/GETIT-FLC/Sentimental/issues/1#issue-2022063522))
+![dailysub logo](https://github.com/GETIT-FLC/Sentimental/issues/1#issue-2022063522)
 
 ## 1. 소개
 
