@@ -1,6 +1,6 @@
 #코드 실행의 경우, 메인 기능인 캘린더는 플러터로 UI까지 구현했고, 다른 기능들은 HTML과 CSS로 가능한 곳 까지 구현했습니다. UI까지는 각각 구현했으나, 합치다가 실패해서 각 코드를 커밋해놓았습니다.
 
-# 로컬 실행 방법
+#로컬 실행 방법
 1. 안드로이드 스튜디오에서 Flutter 플러그인 설치
 2. Projects > New Flutter Project
 3. lib 폴더에 main.dart 코드와 pubspect.yaml 코드 Chrome(Web)으로 실행
